@@ -41,5 +41,18 @@
 ![11 1 Поменять цвет товара](https://user-images.githubusercontent.com/85673637/195055808-25fe2e35-4e19-43e7-ad30-b5c3edd27ac1.jpg)
 ![11 2 Поменять цвет товара](https://user-images.githubusercontent.com/85673637/195055823-15b8e3c7-fa1a-4e83-a10e-732207e6063a.jpg)
 
+### 12. Найти max количество товара в столбце количество (столбец количество добавлен)
+![12 1 добавлен столбец количество](https://user-images.githubusercontent.com/85673637/195797648-2ef1eaff-57f5-4368-ade8-0abf54c9b481.jpg)
+![12 2 Найти max количество](https://user-images.githubusercontent.com/85673637/195797660-e4d68d6c-e950-4173-857e-89ceb98a274f.jpg)
+
+### 13. Найти сумму товара в столбце количество
+![13  Найти сумму](https://user-images.githubusercontent.com/85673637/195797924-bd8b2303-98cf-4d1d-a1da-749437202ac5.jpg)
+
+### 14. Найти сумму товара белого цвета
+![14  сумма товаров белого цвета](https://user-images.githubusercontent.com/85673637/195800351-c11030d8-5e20-485f-8765-386127f123a6.jpg)
+
+### 15. Сортировка товара по столбцу цвет
+![15  сортировка по цвету](https://user-images.githubusercontent.com/85673637/195800217-9d9b5aaf-e2f4-4d0f-bac3-03219179ed47.jpg)
+
 
 
